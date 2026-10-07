@@ -1,0 +1,8 @@
+API_URL = "...."
+
+USER_TOKEN = "...."
+APP_TOKEN = "...."
+
+CATEGORIA_CONTROLADORIA = ...
+
+VERIFY_SSL = False
